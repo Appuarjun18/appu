@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 hi
 hii
+=======
+h
+helloi
+>>>>>>> feature
